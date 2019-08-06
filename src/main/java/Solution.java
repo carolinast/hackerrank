@@ -1,3 +1,4 @@
-public class Solution{
 
+
+public class Solution {
 }
