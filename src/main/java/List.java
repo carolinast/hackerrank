@@ -2,14 +2,14 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class JavaList {
+public class List {
 
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 //        System.out.println("Insert number of elements in the list.");
         int N = scanner.nextInt();
-        List<Integer> L = new ArrayList<Integer>();
+        java.util.List<Integer> L = new ArrayList<Integer>();
 //        System.out.println("Type " + N + " numbers.");
         for (int i = 0; i < N; i++) {
             int temp = scanner.nextInt();

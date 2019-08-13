@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class JavaLoopsI {
+public class LoopsI {
 
     private static final Scanner scanner = new Scanner(System.in);
 
